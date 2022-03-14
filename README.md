@@ -7,9 +7,9 @@ This session provides a basic introduction to the `matplotlib` package for data 
 
 Download this repository to your computer as a ZIP file and unpack it.
 
-Open JupyterLab (within Anaconda) and navigate to the unpacked directory to work with the .ipynb notebooks.
+Open JupyterLab (within Anaconda) and navigate to the unpacked directory to work with the .ipynb notebook.
 
-Alternatively, you can run the notebooks online using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/irc_viz/main?urlpath=lab)
+Alternatively, you can run the notebook online using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/irc_viz/main?urlpath=lab)
 
 
 <hr>
