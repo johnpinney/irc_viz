@@ -1,6 +1,6 @@
 # irc_viz
 
-This session provides a basic introduction to the `matplotlib` package for data visualisation.
+This session provides a basic introduction to the `pandas` and `matplotlib` packages for data exploration and visualisation.
 
 
 ## Getting Started
